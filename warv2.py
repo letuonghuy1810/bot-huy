@@ -356,8 +356,7 @@ def menu_handler(message: Message):
         return
 
     menu_text = """📋 **MENU BOT** 📋
-Bot by **Shade Lunar** - Zalo: 0977284114
-Bot sell by **Lê Tường Huy** - Zalo: 0342433460
+Bot by **@lthuy** - Zalo: 0977284114
 
 💬 **Messenger**
 ├── /treomess - Treo ngôn Messenger
